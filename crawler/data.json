@@ -1,0 +1,312 @@
+{
+    "isAllowedToCreateAgency": true,
+    "freelancer": {
+        "rid": "1003840962",
+        "userRid": "42737824",
+        "nid": "bobbybackupy",
+        "firstName": "Bobby",
+        "lastName": "Backupy",
+        "email": {
+            "address": "bob.worker+backupaccount@argyle.io",
+            "isVerified": true,
+            "unverifiedAddress": ""
+        },
+        "address": {
+            "street": "Party street 100",
+            "additionalInfo": "1",
+            "state": "FL",
+            "city": "Miami",
+            "zip": "123456",
+            "country": "United States"
+        },
+        "phone": "9176987366",
+        "smsEmail": null,
+        "portrait": {
+            "bigPortrait": "https://www.upwork.com/profile-portraits/c1mLLxjwmuM_8hrcf2IDa4AajZFNGdDSKleHcddaSlYdha-Z2SdY2nLtbFdizwfo-Z",
+            "originalPortrait": "https://s3-us-west-2.amazonaws.com/agora-profile-portraits-prod/profile-portraits/prod/persons/1405822932537774080/portraits/1405825745116213248/original?AWSAccessKeyId=AKIAJS5XDM2QDHERYJMQ&Expires=2147483647&Signature=HKrvoVIfUTspgUnPXVTSmXdW47U%3D"
+        },
+        "invoiceAddress": null,
+        "timezone": "UTC+02:00 Israel",
+        "isNameReviewPending": false,
+        "isIdVerificationPending": false
+    },
+    "countriesStates": {
+        "United States": [
+            {
+                "id": "AA",
+                "name": "AA"
+            },
+            {
+                "id": "AE",
+                "name": "AE"
+            },
+            {
+                "id": "AL",
+                "name": "AL"
+            },
+            {
+                "id": "AK",
+                "name": "AK"
+            },
+            {
+                "id": "AP",
+                "name": "AP"
+            },
+            {
+                "id": "AZ",
+                "name": "AZ"
+            },
+            {
+                "id": "AR",
+                "name": "AR"
+            },
+            {
+                "id": "CA",
+                "name": "CA"
+            },
+            {
+                "id": "CO",
+                "name": "CO"
+            },
+            {
+                "id": "CT",
+                "name": "CT"
+            },
+            {
+                "id": "DE",
+                "name": "DE"
+            },
+            {
+                "id": "DC",
+                "name": "DC"
+            },
+            {
+                "id": "FL",
+                "name": "FL"
+            },
+            {
+                "id": "GA",
+                "name": "GA"
+            },
+            {
+                "id": "HI",
+                "name": "HI"
+            },
+            {
+                "id": "ID",
+                "name": "ID"
+            },
+            {
+                "id": "IL",
+                "name": "IL"
+            },
+            {
+                "id": "IN",
+                "name": "IN"
+            },
+            {
+                "id": "IA",
+                "name": "IA"
+            },
+            {
+                "id": "KS",
+                "name": "KS"
+            },
+            {
+                "id": "KY",
+                "name": "KY"
+            },
+            {
+                "id": "LA",
+                "name": "LA"
+            },
+            {
+                "id": "ME",
+                "name": "ME"
+            },
+            {
+                "id": "MD",
+                "name": "MD"
+            },
+            {
+                "id": "MA",
+                "name": "MA"
+            },
+            {
+                "id": "MI",
+                "name": "MI"
+            },
+            {
+                "id": "MN",
+                "name": "MN"
+            },
+            {
+                "id": "MS",
+                "name": "MS"
+            },
+            {
+                "id": "MO",
+                "name": "MO"
+            },
+            {
+                "id": "MT",
+                "name": "MT"
+            },
+            {
+                "id": "NE",
+                "name": "NE"
+            },
+            {
+                "id": "NV",
+                "name": "NV"
+            },
+            {
+                "id": "NH",
+                "name": "NH"
+            },
+            {
+                "id": "NJ",
+                "name": "NJ"
+            },
+            {
+                "id": "NM",
+                "name": "NM"
+            },
+            {
+                "id": "NY",
+                "name": "NY"
+            },
+            {
+                "id": "NC",
+                "name": "NC"
+            },
+            {
+                "id": "ND",
+                "name": "ND"
+            },
+            {
+                "id": "OH",
+                "name": "OH"
+            },
+            {
+                "id": "OK",
+                "name": "OK"
+            },
+            {
+                "id": "OR",
+                "name": "OR"
+            },
+            {
+                "id": "PA",
+                "name": "PA"
+            },
+            {
+                "id": "RI",
+                "name": "RI"
+            },
+            {
+                "id": "SC",
+                "name": "SC"
+            },
+            {
+                "id": "SD",
+                "name": "SD"
+            },
+            {
+                "id": "TN",
+                "name": "TN"
+            },
+            {
+                "id": "TX",
+                "name": "TX"
+            },
+            {
+                "id": "UT",
+                "name": "UT"
+            },
+            {
+                "id": "VT",
+                "name": "VT"
+            },
+            {
+                "id": "VA",
+                "name": "VA"
+            },
+            {
+                "id": "WA",
+                "name": "WA"
+            },
+            {
+                "id": "WV",
+                "name": "WV"
+            },
+            {
+                "id": "WI",
+                "name": "WI"
+            },
+            {
+                "id": "WY",
+                "name": "WY"
+            }
+        ],
+        "Canada": [
+            {
+                "id": "AB",
+                "name": "AB"
+            },
+            {
+                "id": "BC",
+                "name": "BC"
+            },
+            {
+                "id": "MB",
+                "name": "MB"
+            },
+            {
+                "id": "NB",
+                "name": "NB"
+            },
+            {
+                "id": "NL",
+                "name": "NL"
+            },
+            {
+                "id": "NT",
+                "name": "NT"
+            },
+            {
+                "id": "NS",
+                "name": "NS"
+            },
+            {
+                "id": "NU",
+                "name": "NU"
+            },
+            {
+                "id": "ON",
+                "name": "ON"
+            },
+            {
+                "id": "PE",
+                "name": "PE"
+            },
+            {
+                "id": "QC",
+                "name": "QC"
+            },
+            {
+                "id": "SK",
+                "name": "SK"
+            },
+            {
+                "id": "YT",
+                "name": "YT"
+            }
+        ]
+    },
+    "isFederatedUserEmail": false,
+    "isLocationInvalid": true,
+    "addressAutocompleteCountries": [
+        "United States"
+    ]
+}

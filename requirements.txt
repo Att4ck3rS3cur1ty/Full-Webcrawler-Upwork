@@ -1,0 +1,7 @@
+python-dotenv
+pathlib
+keyring
+asyncio
+httpx[http2]
+pyotp
+pydantic
